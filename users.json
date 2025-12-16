@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "email": "stevecook@gmail.com",
+    "hashedPassword": "$2b$10$YfWFCtWrlcmIQTkbu1hpxufrNJcXLM3dNEfDtSzbk6K661V9c0ys2",
+    "name": "Steve Cook",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "email": "brendank@gmail.com",
+    "hashedPassword": "$2b$10$ZRIBGCzFYsDgj0mNAcMf3eIVJtm8hvQZfh/LmBz8Wm/b/Ol.vTHYq",
+    "name": "Brendan Kruefer",
+    "role": "hr"
+  },
+  {
+    "id": "3",
+    "email": "andrews@gmail.com",
+    "hashedPassword": "$2b$10$RxOFDqv16Qb.XsYszXWEZOo9awPZevFkx1Wl8Qn8APzSsguVfRaT2",
+    "name": "Andrew Savage",
+    "role": "employee"
+  },
+  {
+    "id": "4",
+    "email": "aguilar@gmail.com",
+    "hashedPassword": "$2b$10$.JIyBzgegUQMEC30Wi1MlOIZUzUMr0vYKo5bDZkqsfRIP86HfCUFO",
+    "name": "Lula Aguilar",
+    "role": "employee"
+  },
+  {
+    "id": "5",
+    "email": "fintancruz@gmail.com",
+    "hashedPassword": "$2b$10$dNne1yKf0G22I1WGBjcAeeD61YIQBvhNxiIQFLoEvNJD/K7eSj.sW",
+    "name": "Steve Cook",
+    "role": "employee"
+  }
+]

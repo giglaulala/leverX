@@ -1,0 +1,335 @@
+[
+  {
+    "_id": "emp-1",
+    "isRemoteWork": true,
+    "user_avatar": "./assets/usericon.png",
+    "first_name": "Brendan",
+    "last_name": "Krueger",
+    "first_native_name": "Brendan",
+    "last_native_name": "Krueger",
+    "middle_native_name": "",
+    "department": "Web & Mobile",
+    "building": "LPT (Main Office)",
+    "room": "LPT1403",
+    "date_birth": {
+      "year": 1990,
+      "month": 1,
+      "day": 1
+    },
+    "desk_number": 20,
+    "manager": {
+      "id": "mgr-1",
+      "first_name": "John",
+      "last_name": "Snow"
+    },
+    "phone": "+10000000001",
+    "email": "brendan.krueger@leverx.com",
+    "skype": "live:brendan.krueger",
+    "cnumber": "C5336101",
+    "citizenship": "Georgia",
+    "visa": [
+      {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    ]
+  },
+  {
+    "_id": "emp-2",
+    "isRemoteWork": false,
+    "user_avatar": "./assets/usericon.png",
+    "first_name": "Andrew",
+    "last_name": "Savage",
+    "first_native_name": "Andrew",
+    "last_native_name": "Savage",
+    "middle_native_name": "",
+    "department": "Web & Mobile",
+    "building": "LPT (Main Office)",
+    "room": "LPT1403",
+    "date_birth": {
+      "year": 1991,
+      "month": 2,
+      "day": 2
+    },
+    "desk_number": 21,
+    "manager": {
+      "id": "mgr-1",
+      "first_name": "John",
+      "last_name": "Snow"
+    },
+    "phone": "+10000000002",
+    "email": "andrew.savage@leverx.com",
+    "skype": "live:andrew.savage",
+    "cnumber": "C5336102",
+    "citizenship": "Georgia",
+    "visa": [
+      {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    ]
+  },
+  {
+    "_id": "emp-3",
+    "isRemoteWork": true,
+    "user_avatar": "./assets/usericon.png",
+    "first_name": "Lula",
+    "last_name": "Aguilar",
+    "first_native_name": "Lula",
+    "last_native_name": "Aguilar",
+    "middle_native_name": "",
+    "department": "Web & Mobile",
+    "building": "LPT (Main Office)",
+    "room": "LPT1403",
+    "date_birth": {
+      "year": 1992,
+      "month": 3,
+      "day": 3
+    },
+    "desk_number": 22,
+    "manager": {
+      "id": "mgr-1",
+      "first_name": "John",
+      "last_name": "Snow"
+    },
+    "phone": "+10000000003",
+    "email": "lula.aguilar@leverx.com",
+    "skype": "live:lula.aguilar",
+    "cnumber": "C5336103",
+    "citizenship": "Georgia",
+    "visa": [
+      {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    ]
+  },
+  {
+    "_id": "emp-4",
+    "isRemoteWork": false,
+    "user_avatar": "./assets/usericon.png",
+    "first_name": "Fintan",
+    "last_name": "Cruz",
+    "first_native_name": "Fintan",
+    "last_native_name": "Cruz",
+    "middle_native_name": "",
+    "department": "Web & Mobile",
+    "building": "LPT (Main Office)",
+    "room": "LPT1403",
+    "date_birth": {
+      "year": 1993,
+      "month": 4,
+      "day": 4
+    },
+    "desk_number": 23,
+    "manager": {
+      "id": "mgr-1",
+      "first_name": "John",
+      "last_name": "Snow"
+    },
+    "phone": "+10000000004",
+    "email": "fintan.cruz@leverx.com",
+    "skype": "live:fintan.cruz",
+    "cnumber": "C5336104",
+    "citizenship": "Georgia",
+    "visa": [
+      {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    ]
+  },
+  {
+    "_id": "emp-5",
+    "isRemoteWork": true,
+    "user_avatar": "./assets/usericon.png",
+    "first_name": "Suzanne",
+    "last_name": "Taylor",
+    "first_native_name": "Suzanne",
+    "last_native_name": "Taylor",
+    "middle_native_name": "",
+    "department": "Web & Mobile",
+    "building": "LPT (Main Office)",
+    "room": "LPT1403",
+    "date_birth": {
+      "year": 1994,
+      "month": 5,
+      "day": 5
+    },
+    "desk_number": 24,
+    "manager": {
+      "id": "mgr-1",
+      "first_name": "John",
+      "last_name": "Snow"
+    },
+    "phone": "+10000000005",
+    "email": "suzanne.taylor@leverx.com",
+    "skype": "live:suzanne.taylor",
+    "cnumber": "C5336105",
+    "citizenship": "Georgia",
+    "visa": [
+      {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    ]
+  },
+  {
+    "_id": "emp-6",
+    "isRemoteWork": false,
+    "user_avatar": "./assets/usericon.png",
+    "first_name": "Francesco",
+    "last_name": "Reed",
+    "first_native_name": "Francesco",
+    "last_native_name": "Reed",
+    "middle_native_name": "",
+    "department": "Web & Mobile",
+    "building": "LPT (Main Office)",
+    "room": "LPT1403",
+    "date_birth": {
+      "year": 1995,
+      "month": 6,
+      "day": 6
+    },
+    "desk_number": 25,
+    "manager": {
+      "id": "mgr-1",
+      "first_name": "John",
+      "last_name": "Snow"
+    },
+    "phone": "+10000000006",
+    "email": "francesco.reed@leverx.com",
+    "skype": "live:francesco.reed",
+    "cnumber": "C5336106",
+    "citizenship": "Georgia",
+    "visa": [
+      {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    ]
+  },
+  {
+    "_id": "emp-7",
+    "isRemoteWork": true,
+    "user_avatar": "./assets/usericon.png",
+    "first_name": "Arman",
+    "last_name": "Eaton",
+    "first_native_name": "Arman",
+    "last_native_name": "Eaton",
+    "middle_native_name": "",
+    "department": "Web & Mobile",
+    "building": "LPT (Main Office)",
+    "room": "LPT1403",
+    "date_birth": {
+      "year": 1996,
+      "month": 7,
+      "day": 7
+    },
+    "desk_number": 26,
+    "manager": {
+      "id": "mgr-1",
+      "first_name": "John",
+      "last_name": "Snow"
+    },
+    "phone": "+10000000007",
+    "email": "arman.eaton@leverx.com",
+    "skype": "live:arman.eaton",
+    "cnumber": "C5336107",
+    "citizenship": "Georgia",
+    "visa": [
+      {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    ]
+  },
+  {
+    "_id": "emp-8",
+    "isRemoteWork": false,
+    "user_avatar": "./assets/usericon.png",
+    "first_name": "Luis",
+    "last_name": "Baker",
+    "first_native_name": "Luis",
+    "last_native_name": "Baker",
+    "middle_native_name": "",
+    "department": "Web & Mobile",
+    "building": "LPT (Main Office)",
+    "room": "LPT1403",
+    "date_birth": {
+      "year": 1997,
+      "month": 8,
+      "day": 8
+    },
+    "desk_number": 27,
+    "manager": {
+      "id": "mgr-1",
+      "first_name": "John",
+      "last_name": "Snow"
+    },
+    "phone": "+10000000008",
+    "email": "luis.baker@leverx.com",
+    "skype": "live:luis.baker",
+    "cnumber": "C5336108",
+    "citizenship": "Georgia",
+    "visa": [
+      {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    ]
+  },
+  {
+    "_id": "emp-9",
+    "isRemoteWork": true,
+    "user_avatar": "./assets/usericon.png",
+    "first_name": "John",
+    "last_name": "Doe",
+    "first_native_name": "John",
+    "last_native_name": "Doe",
+    "middle_native_name": "",
+    "department": "Web & Mobile",
+    "building": "LPT (Main Office)",
+    "room": "LPT1403",
+    "date_birth": {
+      "year": 1998,
+      "month": 9,
+      "day": 9
+    },
+    "desk_number": 28,
+    "manager": {
+      "id": "mgr-1",
+      "first_name": "John",
+      "last_name": "Snow"
+    },
+    "phone": "+10000000009",
+    "email": "john.doe@leverx.com",
+    "skype": "live:john.doe",
+    "cnumber": "C5336109",
+    "citizenship": "Georgia",
+    "visa": [
+      {
+        "issuing_country": "Poland",
+        "type": "National visa type D",
+        "start_date": 1652158800000,
+        "end_date": 1683608400000
+      }
+    ]
+  }
+]
